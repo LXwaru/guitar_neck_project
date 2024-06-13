@@ -17,9 +17,9 @@ function App() {
       <div>
         <Routes>
           <Route path="/guitar_neck_project" element={<HomePage />} />
-          <Route path="/GuitarNeckNotes" element={<GuitarNeckNotes />} />
-          <Route path="/GuitarNeckIntervals" element={<GuitarNeckIntervals />} />
-          <Route path="/GuitarNeckTriads" element={<GuitarNeckTriads />} />
+          <Route path="/guitar_neck_project/GuitarNeckNotes" element={<GuitarNeckNotes />} />
+          <Route path="/guitar_neck_project/GuitarNeckIntervals" element={<GuitarNeckIntervals />} />
+          <Route path="/guitar_neck_project/GuitarNeckTriads" element={<GuitarNeckTriads />} />
         </Routes>
       </div>
       <Footer />

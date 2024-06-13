@@ -5,10 +5,10 @@ const Nav = () => {
     return (
         <>
             <div className="nav-flex">
-                <NavLink to="/">Home</NavLink>
-                <NavLink to="/GuitarNeckNotes">Guitar Neck - Notes</NavLink>
-                <NavLink to="/GuitarNeckIntervals">Guitar Neck - Intervals</NavLink>
-                <NavLink to="/GuitarNeckTriads">Guitar Neck - Triads</NavLink>
+                <NavLink to="/guitar_neck_project">Home</NavLink>
+                <NavLink to="/guitar_neck_project/GuitarNeckNotes">Guitar Neck - Notes</NavLink>
+                <NavLink to="/guitar_neck_project/GuitarNeckIntervals">Guitar Neck - Intervals</NavLink>
+                <NavLink to="/guitar_neck_project/GuitarNeckTriads">Guitar Neck - Triads</NavLink>
             </div>
             <hr />
         </>
