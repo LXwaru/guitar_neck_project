@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/guitar_neck_project/", 
+  base: "/guitar_neck_project/guitar_neck_project/", 
   plugins: [react()],
 })
