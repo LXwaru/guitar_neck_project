@@ -16,7 +16,7 @@ function App() {
       <Nav />
       <div>
         <Routes>
-          <Route path="/" element={<HomePage />} />
+          <Route path="/guitar_neck_project" element={<HomePage />} />
           <Route path="/GuitarNeckNotes" element={<GuitarNeckNotes />} />
           <Route path="/GuitarNeckIntervals" element={<GuitarNeckIntervals />} />
           <Route path="/GuitarNeckTriads" element={<GuitarNeckTriads />} />
