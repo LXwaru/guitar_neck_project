@@ -8,6 +8,6 @@ export default defineConfig({
     "/guitar_neck_project/GuitarNeckNotes/",
     "/guitar_neck_project/GuitarNeckIntervals/",
     "/guitar_neck_project/GuitarNeckTriads/"
-  ]
+  ],
   plugins: [react()],
 })
