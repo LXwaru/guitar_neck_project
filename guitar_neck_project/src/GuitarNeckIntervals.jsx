@@ -385,7 +385,7 @@ const GuitarNeckIntervals = () => {
                     <img src="./public/diamond-inlay.png" alt="diamond inlay" width="30px" height="auto" />
                 </div>
                 <div className="diamond-inlay-2">
-                    <img src="./diamond-inlay.png" alt="diamond inlay" width="30px" height="auto" />
+                    <img src="./assets/images/diamond-inlay.png" alt="diamond inlay" width="30px" height="auto" />
                 </div>
                 <div className="diamond-inlay-3">
                     <img src="./diamond-inlay.png" alt="diamond inlay" width="30px" height="auto" />
